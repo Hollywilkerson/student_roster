@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - 'Guardfile'
+    - 'homework_tester/**/*'
+
+
+
